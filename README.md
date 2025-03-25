@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Tammy</h1>
+<h3>🚀 Web Developer | Problem Solver | Tech Enthusiast</h3>
+<h3>I'm passionate about building efficient and scalable web applications. I enjoy exploring modern technologies, optimizing code, and solving real-world problems.</h3>
 
-<!--
-**TammyCodes29/TammyCodes29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Skills
+- Frontend: HTML, CSS, JavaScript, React
 
-Here are some ideas to get you started:
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm Working On
+- Enhancing my skills in web development
+
+- Building open-source projects and contributing to the developer community
+
+## 📫 Connect With Me
+- LinkedIn:  [**My LinkedIn**](https://www.linkedin.com/in/tammy29/)
+- Github: [**My Github**](https://github.com/TammyCodes29)
+
+📫 How to reach me *lovejp41@gmail.com*
+
+## 🔥 Let's build something amazing together!
